@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi 👋, It is Hik Hik here.
+
+### Please Leave a 🌟
 
 <div align="center">
 <a href="https://hik8hik.github.io">
