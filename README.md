@@ -5,11 +5,11 @@
 <div align="center">
 <a href="https://hik8hik.github.io">
   <img  src="https://github.com/hik8hik/hik8hik/blob/main/assets\images\general\welcome_message.svg"
-       alt="github contribution snake" /></a>
+       alt="Welcome svg" /></a>
 
   <a href="https://hik8hik.github.io">
   <img  src="https://github.com/hik8hik/hik8hik/blob/main/assets\images\general\github_snake.svg"
-       alt="welocome" /></a>
+       alt="github contribution snake" /></a>
        
 </div>
 <!--succinct code-->
