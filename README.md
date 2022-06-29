@@ -5,16 +5,16 @@
 <div align="center">
 <a href="https://hik8hik.github.io">
   <img  src="https://github.com/hik8hik/hik8hik/blob/main/assets\images\general\welcome_message.svg"
-       alt="snake" /></a>
+       alt="github contribution snake" /></a>
 
   <a href="https://hik8hik.github.io">
   <img  src="https://github.com/hik8hik/hik8hik/blob/main/assets\images\general\github_snake.svg"
-       alt="snake" /></a>
+       alt="welocome" /></a>
        
 </div>
 <!--succinct code-->
 
-I am **Hik Hik** is a ✨ _welcome_ ✨ to my `GitHub`. Read more about me.
+I am **Hik Hik**, ✨ _welcome_ ✨ to my `GitHub`. Read more about me.
 
 Here are some ideas to get you started:
 
