@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about `Javascript`, `Python`, `nodejs`, `react`, `mongodb`, `fire...` or `express`.
 - 📫 How to reach me: `to be added`.
 - 😄 Pronouns: ...
-- ⚡ Fun fact: `Realy wish to have a boss`.
+- ⚡ Fun fact: `Realy wish to have a tough project`.
