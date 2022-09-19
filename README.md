@@ -1,6 +1,13 @@
 ### Hi 👋, It is Hik Hik here.
 
-### Please Leave a 🌟
+### Know Me
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=hik8hik&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> </p>
+
+<div display="flex" flex-direction="row">
+  <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=hik8hik&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> </p>
+  <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=hik8hik&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> </p>
+</div>
 
 <div align="center">
 <a href="https://hik8hik.github.io">
@@ -12,12 +19,12 @@
        alt="github contribution snake" /></a>
        
 </div>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=hik8hik&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> </p>
+
 <!--succinct code-->
 
 I am **Hik Hik**, ✨ _welcome_ ✨ to my `GitHub`. Read more about me.
 
-Here are some ideas to get you started:
+Take a quick glance about me here:
 
 - 🔭 I’m currently working on a personal `open-source` project for all businesses.
 - 🌱 Currently I am learning `many_new_things`.
