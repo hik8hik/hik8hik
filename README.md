@@ -8,7 +8,10 @@
 </div>
 
 <div style="display:flex; flex-flow:row">
-   <img src="https://github-readme-stats.vercel.app/api?username=hik8hik&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> 
+   <img src="https://github-readme-stats.vercel.app/api?username=hik8hik&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+  <a href="https://hik8hik.github.io">
+  <img  src="https://github.com/hik8hik/hik8hik/blob/main/assets\images\general\Glassmorphism.png"
+       alt="Welcome svg" /></a>    
   </div>
 
 <div align="center">
