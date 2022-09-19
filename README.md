@@ -7,14 +7,8 @@
        alt="Welcome svg" /></a>       
 </div>
 
-<div style="display:flex; flex-flow:row">
+<div align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=hik8hik&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-  <ul>
-    <li>maybe</li>
-    <li>maybe</li>
-    <li>maybe</li>
-    <li>maybe</li>
-  </ul>
   </div>
 
 <div align="center">
