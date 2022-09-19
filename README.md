@@ -7,7 +7,7 @@
        alt="Welcome svg" /></a>       
 </div>
 
-<div align="center">
+<div align="left">
    <img src="https://github-readme-stats.vercel.app/api?username=hik8hik&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
   </div>
 
