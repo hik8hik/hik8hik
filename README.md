@@ -11,6 +11,10 @@
    <img src="https://github-readme-stats.vercel.app/api?username=hik8hik&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
   </div>
 
+  <div>
+    ![Snake animation](https://github.com/<hik8hik>/<hik8hikstats>/blob/main/github-snake.svg)
+  </div>
+
 <div align="center">
   <a href="https://hik8hik.github.io">
   <img  src="https://github.com/hik8hik/hik8hik/blob/main/assets\images\general\github_snake.svg"
