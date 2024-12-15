@@ -18,10 +18,6 @@
        
 </div>
 
-
-[![An image of @hik8hik's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hik8hik)](https://holopin.io/@hik8hik)
-<!--succinct code-->
-
 I am **Hik Hik**, ✨ _welcome_ ✨ to my `GitHub`. Read more about me.
 
 Take a quick glance about me here:
