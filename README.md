@@ -5,7 +5,7 @@
 <a href="https://hik8hik.github.io">
   <img  src="https://github.com/hik8hik/hik8hik/blob/main/assets\images\general\welcome_message.svg"
        alt="Welcome svg" /></a> 
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FAnmol-Baranwal&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fhik8hik%2Fhik8hik&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
 </div>
 
 <div align="center">
