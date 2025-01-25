@@ -1,7 +1,8 @@
 # Hi 👋, It is Hik Hik here.
 
-<div align="center">
+<div align="center flex-row">
   <!-- Visitor Badge at the Top -->
+202501260116 : 
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fhik8hik%2Fhik8hik&label=VISITORS&labelColor=%23000&countColor=%230A0209" alt="Visitor Badge" />
 </div>
 
