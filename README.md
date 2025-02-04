@@ -20,7 +20,7 @@ Take a quick glance about me here:
 - 🔭 I’m currently working on a personal `open-source` project for all businesses.
 - 🌱 Currently, I am learning `many_new_things`.
 - 👯 I’m looking to collaborate on `any_project`.
-- 💬 Ask me about `Javascript`, `Python`, `Node.js`, `React`, `MongoDB`, `Firebase`, or `Express`.
+- 💬 Ask me about `Javascript`, `Python`, `Node.js`, `React`, `MongoDB`, `Firebase`,, `Nextjs`, or `Express`.
 - 📫 How to reach me: `hik8hik@gmail.com`.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: `Really wish to have a tough project`.
