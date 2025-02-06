@@ -27,19 +27,9 @@ Take a quick glance about me here:
 
 <div align="center" style="display: inline-block;">
   <!-- GitHub Stats -->
-  <div>
-    <div>
-    <p>Hik Hik</p>
-  </div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hik8hik&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
-  </div>
   
-  <div>
-    <div>
-    <p>Hik Hik</p>
-  </div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsutter&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
-  </div>
   
 </div>
 
