@@ -31,7 +31,7 @@ Take a quick glance about me here:
 </div>
 
 <div align="center" style="display: inline-block;">
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=hik8hik&theme=light&hide_border=false)<br/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=hik8hik&theme=light&hide_border=false" />
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hik8hik&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
   <img src="https://github-readme-stats.vercel.app/api?username=hik8hik&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true(https://github-readme-stats.vercel.app/api/top-langs/?username=hik8hik&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)" />
 </div>
