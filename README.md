@@ -26,12 +26,13 @@ I am **Hik Hik**, ✨ _welcome_ ✨ to my `GitHub`. Read more about me.
 - ⚡ Fun fact: `Really wish to have a tough project`
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hik8hik&theme=dark&hide_border=false" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hik8hik&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
   
 </div>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hik8hik&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hik8hik&theme=dark&hide_border=false" />
 <img src="https://github-readme-stats.vercel.app/api?username=hik8hik&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
   
 </div>
