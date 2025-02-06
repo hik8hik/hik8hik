@@ -28,8 +28,7 @@ Take a quick glance about me here:
 <div align="center">
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsutter&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
- 
-  <p>Vs</p>
+  <div style="height:50px; width:50px; display: inline-block;">Vs</div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsutter&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 </div>
 
