@@ -32,7 +32,7 @@ Take a quick glance about me here:
 
 <div align="center" style="display: inline-block;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hik8hik&theme=dark&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hik8hik&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsutter&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
   <img src="" />
   <img src="" />
 </div>
