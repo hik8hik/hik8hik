@@ -33,7 +33,7 @@ I am **Hik Hik**, ✨ _welcome_ ✨ to my `GitHub`. Read more about me.
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem;">
   
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hik8hik&theme=dark&hide_border=false" />
-<img src="https://github-readme-stats.vercel.app/api?username=hik8hik&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent#gh-dark-mode-only" />
+<img src="https://github-readme-stats.vercel.app/api?username=hik8hik&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&theme=transparent#gh-dark-mode-only" />
 
 # [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
 
