@@ -27,16 +27,18 @@ I am **Hik Hik**, ✨ _welcome_ ✨ to my `GitHub`. Read more about me.
 
 <div align="center">
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
+ 
 </div>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem;flex-direction: "row">
   
 # [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
 
 <!--
 https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
 -->
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
+<div>
 <a href="https://github.com/jstrieb/github-stats">
 <img src="https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
 <img src="https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
@@ -46,6 +48,7 @@ https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mod
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hik8hik&theme=dark&hide_border=false" />
 <img src="https://github-readme-stats.vercel.app/api?username=hik8hik&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&theme=transparent#gh-dark-mode-only" />
+</div>
 </div>
 
 <div align="center">
