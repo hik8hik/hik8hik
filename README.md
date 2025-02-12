@@ -35,8 +35,10 @@ I am **Hik Hik**, ✨ _welcome_ ✨ to my `GitHub`. Read more about me.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hik8hik&theme=dark&hide_border=false" />
 <img src="https://github-readme-stats.vercel.app/api?username=hik8hik&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
 
-[![Hik Hik's stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hik)](https://github.com/hik8hik/github-readme-stats)
-  
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-light-mode-only)  
 </div>
 
 <div align="center">
