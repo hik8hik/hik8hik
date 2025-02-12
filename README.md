@@ -27,7 +27,7 @@ I am **Hik Hik**, ✨ _welcome_ ✨ to my `GitHub`. Read more about me.
 
 <div align="center">
   
-  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
 </div>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem;">
