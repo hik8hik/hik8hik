@@ -25,11 +25,6 @@ I am **Hik Hik**, ✨ _welcome_ ✨ to my `GitHub`. Read more about me.
 - 📫 How to reach me: `hik8hik@gmail.com`
 - ⚡ Fun fact: `Really wish to have a tough project`
 
-<div align="center">
-  
- 
-</div>
-
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem;flex-direction: "row">
   
 # [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
@@ -37,7 +32,7 @@ I am **Hik Hik**, ✨ _welcome_ ✨ to my `GitHub`. Read more about me.
 <!--
 https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
 -->
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hik8hik&langs_count=8)
 <div>
 <a href="https://github.com/jstrieb/github-stats">
 <img src="https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
