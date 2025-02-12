@@ -26,7 +26,7 @@ I am **Hik Hik**, ✨ _welcome_ ✨ to my `GitHub`. Read more about me.
 - ⚡ Fun fact: `Really wish to have a tough project`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hik8hik&show_icons=true&theme=sythwave" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hik8hik&show_icons=true&theme=sythwave#gh-dark-mode-only" />
   
 </div>
 
