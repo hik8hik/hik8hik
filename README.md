@@ -34,7 +34,7 @@ I am **Hik Hik**, ✨ _welcome_ ✨ to my `GitHub`. Read more about me.
   
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hik8hik&theme=dark&hide_border=false" />
 <img src="https://github-readme-stats.vercel.app/api?username=hik8hik&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
+<img src="https://github.com/anuraghazra/github-readme-stats" />
   
 </div>
 
