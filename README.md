@@ -18,7 +18,7 @@ I am **Hik Hik**, ✨ _welcome_ ✨ to my `GitHub`. Read more about me.
 
 **Take a quick glance about me here:**
 
-- 🔭 I'm currently working on a personal `open-source` project for all businesses
+- 🔭 I'm currently working on a personal `pfma` project
 - 🌱 Currently learning `many_new_things`
 - 👯 Looking to collaborate on `any_project`
 - 💬 Ask me about `JavaScript`, `Python`, `Node.js`, `React`, `MongoDB`, `Firebase`, `Next.js`, or `Express`
