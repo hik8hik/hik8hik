@@ -1,4 +1,4 @@
-# Hi 👋, It is Hik Hik here.
+# Hi 👋, It is Hik Hik here
 
 <div align="center" style="display: inline-block;">
 202501 : 
