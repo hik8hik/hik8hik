@@ -6,7 +6,7 @@
 : 260116
 </div>
 
-### Know Me.
+### Know Me..
 
 <div align="center">
   <a href="https://hik8hik.github.io">
